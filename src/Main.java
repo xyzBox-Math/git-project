@@ -5,5 +5,6 @@ public class Main {
         System.out.println(123);
         System.out.println(1234);
         System.out.println("hello-master");
+        System.out.println("hello-hot-fix");
     }
 }
